@@ -48,7 +48,7 @@
 
 ## 🔥 Featured Projects  
 🔹 **[Url Builder](https://github.com/shreyawadkar/urlshortner)** – AI-powered resume-to-portfolio converter   
-🔹 **[Leaf Disease Analysis](https://github.com/shreyawadkar/Leaf-Disease-Analysis))** – Deep learning model for plant disease detection  
+🔹 **[Leaf Disease Analysis](https://github.com/shreyawadkar/Leaf-Disease-Analysis)** – Deep learning model for plant disease detection  
  
 
 ---

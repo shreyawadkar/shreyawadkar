@@ -47,10 +47,9 @@
 ---
 
 ## 🔥 Featured Projects  
-🔹 **[Url Builder](https://github.com/shreyawadkar/urlshortner)** – AI-powered resume-to-portfolio converter  
-🔹 **[Churn Mitigation Dashboard](https://github.com/shreyawadkar/churn-dashboard)** – Customer segmentation & retention analysis using Power BI & ML  
-🔹 **[Leaf Disease Analysis](https://github.com/shreyawadkar/leaf-disease)** – Deep learning model for plant disease detection  
-🔹 **[Real-Time Chat App](https://github.com/shreyawadkar/chat-app)** – Scalable WebSocket-based chat application  
+🔹 **[Url Builder](https://github.com/shreyawadkar/urlshortner)** – AI-powered resume-to-portfolio converter   
+🔹 **[Leaf Disease Analysis](https://github.com/shreyawadkar/Leaf-Disease-Analysis))** – Deep learning model for plant disease detection  
+ 
 
 ---
 

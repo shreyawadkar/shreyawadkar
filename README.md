@@ -40,7 +40,7 @@
 ## 📈 GitHub Stats & Activity  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyawadkar&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyawadkar&theme=radical" height="180px" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyawadkar&theme=radical" height="180px" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyawadkar&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyawadkar&layout=compact&theme=radical" width="48%" />
 </p>
